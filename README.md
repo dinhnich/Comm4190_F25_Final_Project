@@ -1,4 +1,4 @@
-# UniTradeGPT
+# UniTradeGPT - A secure, student-only marketplace built specifically for college communities. 
 
 This repository contains Alina's, Nich's, and Layla's individual pitches and then milestones for the final idea, UniTradeGPT. 
 
