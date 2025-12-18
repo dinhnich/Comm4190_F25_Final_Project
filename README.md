@@ -1,5 +1,7 @@
 # UniTradeGPT - A secure, student-only marketplace built specifically for college communities. 
 
+![Logo Image](logo.png)
+
 This repository contains Alina's, Nich's, and Layla's individual pitches and then milestones for the final idea, UniTradeGPT. 
 
 ## Milestone 1 - Pitches for an LLM
