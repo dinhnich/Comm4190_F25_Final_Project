@@ -6,7 +6,7 @@ This repository contains Alina's, Nich's, and Layla's individual pitches and the
 
 ## Milestone 1 - Pitches for an LLM-based app
 
-[Alina's Initial Idea Pitch](Alina_Idea.ipynb) - UniTradeGPT (LLM-based student marketplace)
+[Alina's Initial Idea Pitch](Comm4190_F25_Final_Project/Initial Group Member Pitches - Milestone 1/Alina_Idea.ipynb) - UniTradeGPT (LLM-based student marketplace)
 
 [Nicholas's Initial Idea Pitch](nicholas_idea.ipynb) - ThesisCoachGPT (specialized AI mentor for PhD students)
 
