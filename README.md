@@ -2,7 +2,7 @@
 
 This repository contains Alina's, Nich's, and Layla's individual pitches and then milestones for the final idea, UniTradeGPT. 
 
-## Milestone 1
+## Milestone 1 - Pitches for an LLM
 
 [Alina's Initial Idea Pitch](Alina_Idea.ipynb)
 
@@ -11,14 +11,15 @@ This repository contains Alina's, Nich's, and Layla's individual pitches and the
 [Layla's Initial Idea Pitch](layla_idea.ipynb)
 
 
-## Milestone 2
+## Milestone 2 - Summary of UniTradeGPT 
 
 [Final Idea Pitch](Milestone2.ipynb)
 
 [Usage Scenarios](Usage_Scenarios.ipynb)
 
 
-## Milestone 3
+## Milestone 3 - Usage Scenarios 
+
 [Trading Usage Scenario](Milestone3_Trade.ipynb)
 
 [Scheduling Usage Scenario](Milestone3_Schedule.ipynb)
@@ -36,7 +37,7 @@ This repository contains Alina's, Nich's, and Layla's individual pitches and the
 
 In-Class Presentation
 
-## Milestone 5
+## Milestone 5 - Workflow 
 
 [Workflow Code](Milestone4_Workflows.ipynb)
 
